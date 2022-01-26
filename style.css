@@ -1,0 +1,11 @@
+#box-1{
+  color: rgb(103, 212, 219); outline: rgb(108, 228, 236); padding: 2px; border-style: solid; border-width: thin; width: 95px; text-align: center; font-weight: bold; border-radius: 15px;background-color: whitesmoke;
+}
+
+#box-2{
+color: whitesmoke;border-style: solid; width: 20px;background-color:rgb(108, 228, 236) ;text-align: center; font-weight: bold; border-radius: 50%; outline-color: rgb(108, 228, 236); border-width: thick;
+}
+
+#box-3{
+    color: aliceblue; background-color: royalblue; border-style: solid; border-color: black; width: 125px; text-align: center;padding: 1px; box-shadow: 3px 3px 1px 1px rgba(0, 0, 0, 0.2);
+}
